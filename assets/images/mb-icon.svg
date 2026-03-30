@@ -1,0 +1,30 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 120 80">
+
+<style>
+.logo {
+  fill:#111;
+}
+
+@media (prefers-color-scheme: dark) {
+  .logo { fill:#ffffff; }
+}
+</style>
+
+<g class="logo">
+
+<!-- M -->
+<path d="M5 70 V10 H20 L40 45 L60 10 H75 V70 H60 V35 L40 60 L20 35 V70 Z"></path>
+
+<!-- B -->
+<path d="M80 10 H100
+C110 10 115 15 115 25
+C115 35 110 40 100 40
+H80 Z
+
+M80 40 H102
+C112 40 118 45 118 55
+C118 65 112 70 102 70
+H80 Z"></path>
+
+</g>
+</svg>
